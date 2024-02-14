@@ -1,8 +1,8 @@
 ### Hi 👋, I'm Guilherme Ioshimine
 
-- Java back-end developer and raspberry/arduino enthusiastic in my free time.
+- Java, Angular developer and raspberry/arduino enthusiastic in my free time.
 
-- I currently work at Icaro Technologies as a System Analyst.
+- I currently work at Ci&T as a Full Stack Developer.
 
 - Improving my knowledge in Java Spring Boot with microservices, message broker like RabbitMQ. Also starting look at unit test and test automation.
 
